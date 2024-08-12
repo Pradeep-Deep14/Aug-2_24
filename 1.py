@@ -3,3 +3,5 @@ my_list.remove(True)
 my_list.remove(False)
 
 print(my_list)
+
+#['hello', True, False, 2.6]
